@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	이것은 깃허브를 사용하는 것의 예제입니다.
 </body>
 </html>
